@@ -4,8 +4,6 @@ class Search extends React.Component{
 
     constructor(props){
         super(props);
-
-        // this.onChangeEvent = this.onChangeEvent.bind(this);
     }
 
     onChangeEvent = e =>{
