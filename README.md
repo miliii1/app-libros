@@ -1,4 +1,4 @@
-                                           # Primer app
+# Primer app
 
 Este mí primer trabajo con react.js, después de aprender conocimientos básicos de React.js decidí realizar mí primera app en donde implemente la teoría y la práctica para manejar los temas más importantes sobre éste.
 
