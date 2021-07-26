@@ -1,6 +1,6 @@
-# App de libros
+# Este es mi primer proyecto
 
-
+## App de libros
 
 ###### Esta consiste en calificar libros del 1 al 5, es un diseño no tan conveniente, pero es de las primeras hechas.
 
@@ -15,3 +15,4 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://media.discordapp.net/attachments/751514930477400077/869343690915741766/unknown.png)
+
